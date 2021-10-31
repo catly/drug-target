@@ -1,4 +1,4 @@
-*.css linguist-language=python
-*.less linguist-language=python
+*.txt linguist-language=python
+*.feature linguist-language=python
 *.js linguist-language=python
 *.html linguist-language=python
