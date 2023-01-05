@@ -55,7 +55,10 @@ We provide an example script to run experiments on our dataset:
 
 #### `MGNN_data/` directory : DPP features, feature graphs, structure graphs and label
 
-
+<hr>
+<h3>
 If you use our code, please cite our paper at the same time. Thank you!!! 
-
+</h3>
+<h3>
 Yang Li, Guanyu Qiao, Keqi Wang, Guohua Wang, Drug–target interaction predication via multi-channel graph neural networks, Briefings in Bioinformatics, Volume 23, Issue 1, January 2022, bbab346, https://doi.org/10.1093/bib/bbab346
+</h3>
